@@ -2,4 +2,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibaiGorordo&hide=javascript,html,css,jupyter%20notebook&theme=tokyonight)
 
 # Latest Tweets
-[![Latest tweets](https://github-readme-twitter-gazf.vercel.app/api?id=ibaiGorordo&show_reply=off&layout=normal)](https://twitter.com/ibai_gorordo)
+[![Latest tweets](https://github-readme-twitter-gazf.vercel.app/api?id=ibaiGorordo&show_reply=off&layout=normal)](https://twitter.com/ibaiGorordo)
