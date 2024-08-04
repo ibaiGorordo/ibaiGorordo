@@ -18,11 +18,11 @@ for freelance work? [email me :)](mailto:ibai.gorordo@hotmail.com)
 
 ## Recent Projects 💻
 <!-- RECENT-PROJECT-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=9lW3_g1fjnA"><img width="200px" src="http://img.youtube.com/vi/9lW3_g1fjnA/hqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=9lW3_g1fjnA">Segment Anything 2 &lpar;SAM2&rpar; ONNX Annotation Example</a></td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=9lW3_g1fjnA">Segment Anything 2 &lpar;SAM2&rpar; ONNX Annotation Example</a><br/></td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=NBkWIlEIEi0"><img width="200px" src="http://img.youtube.com/vi/NBkWIlEIEi0/hqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=NBkWIlEIEi0">UniDepth Monocular Metric Depth Estimation ONNX - Rerun SDK</a></td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=NBkWIlEIEi0">UniDepth Monocular Metric Depth Estimation ONNX - Rerun SDK</a><br/></td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=U0857S7x1zc"><img width="200px" src="http://img.youtube.com/vi/U0857S7x1zc/hqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=U0857S7x1zc">YOLO-World Open Vocabulary Object Detection &lpar;ONNX&rpar;</a></td></tr></table>
+<td><a href="https://www.youtube.com/watch?v=U0857S7x1zc">YOLO-World Open Vocabulary Object Detection &lpar;ONNX&rpar;</a><br/></td></tr></table>
 <!-- RECENT-PROJECT-LIST:END -->
 
 
