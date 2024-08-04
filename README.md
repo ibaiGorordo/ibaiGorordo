@@ -17,11 +17,11 @@ for freelance work? [email me :)](mailto:ibai.gorordo@hotmail.com)
 - ### Frameworks: ![Android](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-313131?style=flat-square&logo=unreal-engine&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=Raspberry%20Pi&logoColor=white)
 
 ## Recent Projects 💻
-<!-- RECENT-PROJECT-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=9lW3_g1fjnA"><img width="200px" src="http://img.youtube.com/vi/9lW3_g1fjnA/maxresdefault.jpg"></a></td>
+<!-- RECENT-PROJECT-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=9lW3_g1fjnA"><img width="200px" src="http://img.youtube.com/vi/9lW3_g1fjnA/hqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=9lW3_g1fjnA">Segment Anything 2 &lpar;SAM2&rpar; ONNX Annotation Example</a><br/>Jul 31, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=NBkWIlEIEi0"><img width="200px" src="http://img.youtube.com/vi/NBkWIlEIEi0/maxresdefault.jpg"></a></td>
+<table><tr><td><a href="https://www.youtube.com/watch?v=NBkWIlEIEi0"><img width="200px" src="http://img.youtube.com/vi/NBkWIlEIEi0/hqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=NBkWIlEIEi0">UniDepth Monocular Metric Depth Estimation ONNX - Rerun SDK</a><br/>Jul 25, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=U0857S7x1zc"><img width="200px" src="http://img.youtube.com/vi/U0857S7x1zc/maxresdefault.jpg"></a></td>
+<table><tr><td><a href="https://www.youtube.com/watch?v=U0857S7x1zc"><img width="200px" src="http://img.youtube.com/vi/U0857S7x1zc/hqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=U0857S7x1zc">YOLO-World Open Vocabulary Object Detection &lpar;ONNX&rpar;</a><br/>Apr 7, 2024</td></tr></table>
 <!-- RECENT-PROJECT-LIST:END -->
 
