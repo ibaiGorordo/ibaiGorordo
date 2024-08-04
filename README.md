@@ -7,13 +7,9 @@ for freelance work? [email me :)](mailto:ibai.gorordo@hotmail.com)
 
 
 ## About Me 🚀
- - I am a Biomedical Engineer with a passion for developing innovative assistive devices.
+ - I am a Computer Vision Engineer with a background in Biomedical Engineering, specializing in developing innovative assistive devices.
  - On GitHub, I focus on creating intuitive and visually appealing projects that demonstrate the capabilities of computer vision models.
  - My interests include sensors, computer vision, AI models, and 3D mapping.
-
-
-
-
 
 ## My Skills 🧠
 - ### Languages: ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-E34F26?style=flat-square&logoColor=white)
