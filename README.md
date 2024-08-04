@@ -3,7 +3,7 @@
 ![Twitter](https://img.shields.io/twitter/url?label=%40ibaiGorordo&style=social&url=https%3A%2F%2Ftwitter.com%2ibaiGorordo)
 [![Youtube](https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCq-IKFbWjqX0gxYYaoAODrg)
 
-for freelance work? [email](mailto:ibai.gorordo@hotmail.com) :)
+for freelance work? [email me :)](mailto:ibai.gorordo@hotmail.com)
 
 
 ## About Me 🚀
