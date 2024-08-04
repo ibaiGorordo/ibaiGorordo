@@ -13,6 +13,8 @@ looking for freelance work? [email me :)](mailto:ibai.gorordo@hotmail.com)
  - On GitHub, I create easy-to-use and visually appealing projects that **reveal the sometimes hidden awesomeness of computer vision models**.
  - My interests include **sensors, computer vision, AI models, and 3D mapping**.
 
+![My stats](https://github-readme-stats.vercel.app/api?username=ibaigorordo&show_icons=true&locale=en)
+
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) ![Java](https://img.shields.io/badge/Java-E34F26?style=flat-square&logoColor=white) 
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=OpenCV&logoColor=white) ![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![ONNX](https://img.shields.io/badge/ONNX-b2b2b2?style=flat-square&logo=onnx&logoColor=white) ![Tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Android](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-064F8C?style=flat-square&logo=cmake&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-100000?style=flat-square&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/-Unreal%20Engine-313131?style=flat-square&logo=unreal-engine&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=Raspberry%20Pi&logoColor=white)
@@ -28,6 +30,3 @@ looking for freelance work? [email me :)](mailto:ibai.gorordo@hotmail.com)
 <table><tr><td><a href="https://www.youtube.com/watch?v=U0857S7x1zc"><img width="200px" src="http://img.youtube.com/vi/U0857S7x1zc/hqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=U0857S7x1zc">YOLO-World Open Vocabulary Object Detection &lpar;ONNX&rpar;</a><br/> </td></tr></table>
 <!-- RECENT-PROJECT-LIST:END -->
-
-
-![My stats](https://github-readme-stats.vercel.app/api?username=ibaigorordo&show_icons=true&locale=en)
