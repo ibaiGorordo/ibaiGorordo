@@ -22,6 +22,8 @@ for freelance work? [email](mailto:ibai.gorordo@hotmail.com) :)
 
 ## Recent Projects 💻
 <!-- RECENT-PROJECT-LIST:START -->
-<!-- RECENT-PROJECT-LIST-LIST:END -->
+
+<!-- RECENT-PROJECT-LIST:END -->
+
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=ibaigorordo&show_icons=true&locale=en)
