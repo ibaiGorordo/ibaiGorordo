@@ -1,6 +1,6 @@
 [![Portfolio](https://img.shields.io/badge/-Portfolio-blue?style=flat&logo=appveyor&logoColor=white)](https://ibaigorordo.github.io/)
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ibaiGorordo)
-![Twitter](https://img.shields.io/twitter/url?label=%40ibaiGorordo&style=social&url=https%3A%2F%2Ftwitter.com%2ibaiGorordo)
+[![Twitter](https://img.shields.io/twitter/url?label=%40ibaiGorordo&style=social&url=https%3A%2F%2Ftwitter.com%2ibaiGorordo)](url=https%3A%2F%2Ftwitter.com%2ibaiGorordo)
 [![Youtube](https://img.shields.io/badge/YouTube-red?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCq-IKFbWjqX0gxYYaoAODrg)
 
 </br>
