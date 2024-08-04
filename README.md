@@ -6,7 +6,7 @@
 for freelance work? [email me :)](mailto:ibai.gorordo@hotmail.com)
 
 
-## About Me 🚀
+## About Me :eyes:
  - I am a **Computer Vision Engineer** with a background in Biomedical Engineering, specializing in developing innovative assistive devices.
  - On GitHub, I create easy-to-use and visually appealing projects that **reveal the sometimes hidden awesomeness of computer vision models**.
  - My interests include **sensors, computer vision, AI models, and 3D mapping**.
