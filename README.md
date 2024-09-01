@@ -23,10 +23,10 @@ looking for freelance work? [email me :)](mailto:ibai.gorordo@hotmail.com)
 </br>
 
 ## Recent Projects 💻
-<!-- RECENT-PROJECT-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=hz9PYZF4ax4"><img width="200px" src="http://img.youtube.com/vi/hz9PYZF4ax4/hqdefault.jpg"></a></td>
+<!-- RECENT-PROJECT-LIST:START --><table><tr><td><a href="https://www.youtube.com/watch?v=hOyrnkQz1NE"><img width="200px" src="http://img.youtube.com/vi/hOyrnkQz1NE/hqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=hOyrnkQz1NE">Sapiens Pytorch Inference - Foundation for Human Vision Models</a><br/> </td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=hz9PYZF4ax4"><img width="200px" src="http://img.youtube.com/vi/hz9PYZF4ax4/hqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=hz9PYZF4ax4">YOLOv10 - Object Detection &lpar;ONNX&rpar;</a><br/> </td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=X_XVkEqgCUM"><img width="200px" src="http://img.youtube.com/vi/X_XVkEqgCUM/hqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=X_XVkEqgCUM">YOLOv9 MIT - Object Detection &lpar;ONNX&rpar;</a><br/> </td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=gF2Ejq8IKsI"><img width="200px" src="http://img.youtube.com/vi/gF2Ejq8IKsI/hqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=gF2Ejq8IKsI">Segment Anything 2 &lpar;SAM2&rpar; ONNX - Box Annotation Example</a><br/> </td></tr></table>
 <!-- RECENT-PROJECT-LIST:END -->
